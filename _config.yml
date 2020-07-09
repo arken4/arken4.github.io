@@ -10,7 +10,6 @@ title:            My Projects Devlog
 tagline:          'Enter my train of thought!'
 description:      'Where I explain, reason, and solve problems'
 url:              http://denniswd.me
-baseurl:          /
 
 author:
   name:           'Dennis Walangadi'
